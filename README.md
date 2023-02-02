@@ -1,5 +1,5 @@
 # Dicoding-Final-Project
-This is file of submission project to complete 1 of learning path from Dicoding Indonesia, which is ["Belajar Machine Learning untuk Pemula"](https://www.dicoding.com/learningpaths/30). This .ipynb project is using Convolutional Neural Network (CNN) using the TensorFlow Keras API to make Machine Learning model that able to perform image recognition. The model is trained with rock paper scissor image from [Github Dicoding Academy](ttp://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip)
+This is file of submission project to complete 1 of learning path from Dicoding Indonesia, which is ["Belajar Machine Learning untuk Pemula"](https://www.dicoding.com/learningpaths/30). This .ipynb project is using Convolutional Neural Network (CNN) using the TensorFlow Keras API to make Machine Learning model that able to perform image recognition. The model is trained with rock paper scissor image from [Dicoding Academy Database](http://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip)
 
 ## Dependencies
 - tensorflow
